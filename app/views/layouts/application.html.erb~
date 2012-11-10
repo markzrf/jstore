@@ -57,6 +57,4 @@
   </div>
 </body>
 </html>
-<%= link_to 'Order', orders_path %><br />
-<%= link_to 'Products', products_path %><br />
-<%= link_to 'Users', users_path %><br />
+
